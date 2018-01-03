@@ -4,7 +4,6 @@
 	"port": 80,
 	"env": {
 		"PMA_ARBITRARY":"1",
-		"MYSQL_USERNAME": "root",
 		"MYSQL_ROOT_PASSWORD":"passw0rd"
 	}
 }
