@@ -1,0 +1,7 @@
+{
+	"id": "myadmin",
+	"port": "80",
+	"env": {
+		"PMA_ARBITRARY":"1"
+	}
+}
