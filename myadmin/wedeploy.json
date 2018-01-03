@@ -1,5 +1,6 @@
 {
 	"id": "myadmin",
+	"image": "phpmyadmin/phpmyadmin:latest",
 	"port": 80,
 	"env": {
 		"PMA_ARBITRARY":"1"
